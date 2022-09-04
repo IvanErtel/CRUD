@@ -1,0 +1,19 @@
+*{
+    font-family: 'Acme', sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+#titulo{
+    text-align: center;
+}
+.letras{
+   font-size: large;
+   text-align: center;
+}
+#boton{
+   padding: 5px;
+}
+.table{
+    border-radius: 10px;
+}
